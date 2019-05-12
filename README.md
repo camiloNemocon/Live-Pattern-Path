@@ -14,5 +14,7 @@ In filter -> ControlP5 -> install
 Skecth -> import library -> Add to library
 In filter -> Minim -> install
 4. Close Processing 
-5. Open LivePatternPath.pde Processing File
+5. Move LPPsets folder to Processing Folder
+6. Open LivePatternPath.pde Processing File
+7. Run project. 
 
