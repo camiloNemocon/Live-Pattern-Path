@@ -1,0 +1,16 @@
+
+Proyect realeased in Processing to create pattern sounds using visual controls to generate musical sets
+
+To change the sounds, you need to replace the .mp3 sound files in data folder. The name of the mp3 files will be the same as original mp3 files.
+
+To run the proyect, go to executable folder and open the folder of your operative system and click on LivePatternPath program.
+
+To run the proyect in Processing you need to follow the next steps:
+
+    Open Processing
+    Install ControlP5 library, to do this, in Processing you need go Skecth -> import library -> Add to library In filter -> ControlP5 -> install
+    Install Minim Audio library, to do this, in Processing you need go Skecth -> import library -> Add to library In filter -> Minim -> install
+    Close Processing
+    Move LPPsets folder to Processing Folder
+    Open LivePatternPath.pde Processing File
+    Run project.
