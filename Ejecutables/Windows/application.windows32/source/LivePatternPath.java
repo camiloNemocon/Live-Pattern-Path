@@ -46,7 +46,7 @@ boolean[] muteBorders;
 
 public void settings()
 {
-  size(1280, 768, P3D);
+  size(1280, 768);
 }
 
 public void setup() 

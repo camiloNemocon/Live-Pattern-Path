@@ -27,7 +27,7 @@ boolean[] muteBorders;
 
 void settings()
 {
-  size(1280, 768, P3D);
+  size(1280, 768);
 }
 
 void setup() 
