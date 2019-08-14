@@ -71,12 +71,12 @@ void setup()
    }
    
   //String cancionExtremo, String cancionPunto, int numeroCirculos, int distanciaCirculos, boolean movimiento, int Ypos, int Xpos
-  linea1 = new lineaCompleta("linea1Extremos.wav","linea1Puntos.wav",4,60,false,20,0); 
-  linea2 = new lineaCompleta("linea2Extremos.wav","linea2Puntos.wav",4,60,false,20,0);
-  linea3 = new lineaCompleta("linea3Extremos.wav","linea3Puntos.wav",4,60,false,20,0);
-  linea4 = new lineaCompleta("linea4Extremos.wav","linea4Puntos.wav",4,60,false,20,0);
-  linea5 = new lineaCompleta("linea5Extremos.wav","linea5Puntos.wav",4,60,false,20,0);
-  linea6 = new lineaCompleta("linea6Extremos.wav","linea6Puntos.wav",4,60,false,20,0);
+  linea1 = new lineaCompleta("linea1Extremos.WAV","linea1Puntos.WAV",4,60,false,20,0); 
+  linea2 = new lineaCompleta("linea2Extremos.WAV","linea2Puntos.WAV",4,60,false,20,0);
+  linea3 = new lineaCompleta("linea3Extremos.WAV","linea3Puntos.WAV",4,60,false,20,0);
+  linea4 = new lineaCompleta("linea4Extremos.WAV","linea4Puntos.WAV",4,60,false,20,0);
+  linea5 = new lineaCompleta("linea5Extremos.WAV","linea5Puntos.WAV",4,60,false,20,0);
+  linea6 = new lineaCompleta("linea6Extremos.WAV","linea6Puntos.WAV",4,60,false,20,0);
 }
 
 
